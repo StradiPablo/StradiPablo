@@ -1,4 +1,4 @@
-👨‍🎓 Soy un estudiante de segundo de una formación de grado medio que vive en España. 
+👨‍🎓 Soy un estudiante que vive en España, actualmente estoy realizando el segundo año de grado medio en un módulo profesional de informática.
 
 💻 Estoy aprendiendo a codificar. Me gustaría aprender a programar páginas web con HTML y CSS (y posible JavaScript en el futuro). 
 
